@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Aina Andriantsoa
 
-🚀 **Fullstack Developer** | TypeScript · React · Node.js · Laravel  
+🚀 **Fullstack Developer** | Javascript/TypeScript · React · Node.js · Python · PHP · Laravel   
 📍 Antananarivo, Madagascar
 
 ---
