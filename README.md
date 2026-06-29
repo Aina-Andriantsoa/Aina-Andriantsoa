@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Aina Riantsoa
+# 👋 Hi, I'm Aina Andriantsoa
 
 🚀 **Fullstack Developer** | TypeScript · React · Node.js · Laravel  
 📍 Antananarivo, Madagascar
